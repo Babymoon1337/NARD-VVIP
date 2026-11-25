@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NARD VVIP
 
 NARD VVIP is a private, Studio-only developer test panel for experiences you own or are authorized to modify. It is not an executor script: the client refuses to start outside Roblox Studio, and the server independently checks Studio mode and an explicit UserId allowlist.
@@ -34,3 +35,6 @@ NARD-VVIP/
 See [INSTALLATION.md](./INSTALLATION.md) for Studio placement and the test checklist.
 
 Run the optional integration/regression script at [tests/StudioRegression.client.lua](./tests/StudioRegression.client.lua) in an allowlisted Studio Play session as described in the installation guide.
+=======
+# NARD-VVIP
+>>>>>>> 769f65699e895cb1772a16abf1fbd3fb9a0bf8fa
